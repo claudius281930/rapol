@@ -1,2 +1,2 @@
 # rapol
-exercicios_simplificados_kenzie.
+Para aprender com qualidade é necessário praticar.
